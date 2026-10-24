@@ -1,12 +1,37 @@
-# Data Journalism & Visualisation Portfolio
+# Hi, I'm Michael Oliver 👋
+
+## About me
+
+I'm training as a London-based **data journalist and data visualisation specialist**, turning data into clear, well-sourced stories.
+
+### Goals and scope
+
+- Working towards data journalist, data reporter and data visualisation roles in London
+- Finding stories in public data, analysing them rigorously and presenting them visually
+- Building a public portfolio of data-led pieces here on GitHub
+
+### Background
+
+- **University (2015–2018):** SQL, C#, Java and HTML
+- **NUJ:** temporary member
+- **Booked:** CIJ Deep Dive into Data Journalism, January 2027
+
+### What I'm learning
+
+- **Analysis:** Python (pandas, scraping, APIs), R, advanced SQL, Excel and Google Sheets
+- **Data at scale:** BigQuery, Google Colab
+- **Visualisation:** Flourish, Datawrapper, Tableau, Looker Studio
+- **Workflow:** Git and GitHub
+
+---
+
+## Data Journalism & Visualisation Portfolio
 
 **Michael Oliver**  
 London-based data journalist and visualisation specialist in training  
 [LinkedIn](https://www.linkedin.com/) · [NUJ Temporary Member](https://www.nuj.org.uk/)
 
----
-
-## About
+### About this portfolio
 
 This repository showcases practical work in **data journalism** and **data visualisation**. It contains original analyses, course projects, and visual storytelling examples developed while building professional skills for roles in visual and data journalism.
 
